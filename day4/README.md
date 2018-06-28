@@ -1,6 +1,5 @@
 # Game Design Innovators
 ### Day 4
-https://docs.google.com/document/d/1vSDBUzCzwR2Bxy8Krgw2AugYwsf1mOUMkGV7XnOWmus/edit
 
 **Block 1 (09:15 - 10:15):** Game development
 
